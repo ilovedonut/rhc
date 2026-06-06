@@ -1,0 +1,6 @@
+{
+  "name": "Royal House Cleaning AZ",
+  "description": "Professional booking website for Royal House Cleaning Arizona LLC, a premier family-managed cleaning service serving the Phoenix Valley with dedication, honesty, and a royal touch.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
